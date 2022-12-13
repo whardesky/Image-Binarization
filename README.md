@@ -1,2 +1,2 @@
-# Image-Binarization
-This program will convert any image to gray scale, then binarize the image to only black and white pixes.
+# Image Binarization
+This program will convert any image to grayscale, then binarize the image to only black and white pixes.  In grayscale images, every pixel represents an intensity value ranging from 0 (black) to 255 (white).  In black and white images, every pixel is either 0 or 255.  Intensity refers to the brightness of a color, white is the brightest and therefore the most intense, black is the darkest and the least intense.
